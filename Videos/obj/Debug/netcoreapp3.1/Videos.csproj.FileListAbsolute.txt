@@ -1,0 +1,13 @@
+C:\Users\jordi\source\repos\Videos\Videos\bin\Debug\netcoreapp3.1\Videos.exe
+C:\Users\jordi\source\repos\Videos\Videos\bin\Debug\netcoreapp3.1\Videos.deps.json
+C:\Users\jordi\source\repos\Videos\Videos\bin\Debug\netcoreapp3.1\Videos.runtimeconfig.json
+C:\Users\jordi\source\repos\Videos\Videos\bin\Debug\netcoreapp3.1\Videos.runtimeconfig.dev.json
+C:\Users\jordi\source\repos\Videos\Videos\bin\Debug\netcoreapp3.1\Videos.dll
+C:\Users\jordi\source\repos\Videos\Videos\bin\Debug\netcoreapp3.1\Videos.pdb
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.csprojAssemblyReference.cache
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.csproj.CoreCompileInputs.cache
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.AssemblyInfoInputs.cache
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.AssemblyInfo.cs
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.dll
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.pdb
+C:\Users\jordi\source\repos\Videos\Videos\obj\Debug\netcoreapp3.1\Videos.genruntimeconfig.cache
